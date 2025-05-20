@@ -1,0 +1,25 @@
+#content{    
+    margin: 40px 50px;
+}   
+
+main {
+    display: inline-block;
+    vertical-align: middle;
+    width: 44%;
+}
+main h1{
+    text-align: center;
+    font-style: oblique;
+    margin: 20px 0;
+}
+
+aside{
+    display: inline-block;
+    vertical-align: middle;
+    width: 54%;
+}
+#image{
+    width: 70%;
+    display: block;
+    margin: auto;
+}
