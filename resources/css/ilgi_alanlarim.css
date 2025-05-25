@@ -1,0 +1,56 @@
+.buttons {
+    /* width: 60%;
+    height: 100px;
+    background-color: #152235; */
+    margin: 20px;
+    display: grid;
+}
+
+#image{
+    background-image: url("https://wallpapers.com/images/featured-full/all-anime-2e92kjl5ii5i7rwz.jpg");
+    width: 100%;
+    height: 250px;
+
+    background-size: contain;
+}
+#context{
+    background-color: rgba(255, 255, 255, 0.7);
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+#empty {
+    width: 100%;
+    height: 35%;
+}
+
+.context_container{
+    width: 85%;
+    height: 200px;
+    margin: 5px auto;
+    background-color: #1b2637;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+
+    position: relative;
+}
+.context_container img{
+    border-radius: 5px;
+    width:150px;
+    max-height: 150px;
+    
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+.context_container #head{
+    width: 70%;
+}
+
+#yazi{
+    font-style: italic;
+    font-weight: bolder;
+}
