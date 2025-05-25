@@ -1,0 +1,43 @@
+main{
+    width: 54%;
+    height: 400px;
+    margin: 120px auto;
+
+}
+
+
+#content{
+    background-color: #526D82;
+    color: black;
+
+    font-weight: bolder;
+    font-style: oblique;
+    padding: 8px 20px;
+    font-size: 30px;
+    border-radius: 6px 6px 0 0 ;
+}
+.dancing-script {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+
+#form{
+    background-color: #DDE6ED;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 0 0 6px 6px;
+}
+tr input, textarea {
+    margin-left: 15px;
+    font-size: 14px;
+    /* width: 220px; */
+    width: 80%;
+}
+td:nth-child(2){
+    width: 100%;
+}
+
+
