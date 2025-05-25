@@ -1,0 +1,17 @@
+#old_images_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    margin: 15px 0;
+}
+
+.content {
+    background-color: #DDE6ED;
+    padding: 15px;
+    border-radius: 5px;
+    font-style: oblique;
+    margin: 15px 25px;
+}
+
+
