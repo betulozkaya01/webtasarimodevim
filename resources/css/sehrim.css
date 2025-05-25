@@ -1,0 +1,15 @@
+.lokasyonlar {
+    width: 80%;
+    background-color: #DDE6ED;
+    margin:30px  auto;
+    padding: 20px;
+    border-radius: 10px;
+
+    overflow: hidden;
+}
+.lokasyonlar p {
+    font-style: italic;
+}
+.lokasyonlar img {
+    border-radius: 5px;
+}
